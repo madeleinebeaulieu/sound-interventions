@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Sound In(ter)ventions" ] },
+    "summary": { "en": [ "In 2010, Banff Centre for Arts \u0026 Creativity hosted In(ter)ventions: Literary Practice at the Edge - A Gathering, a conference featuring some foremost literary voices in experimental poetics, including Fred Wah, J.R. Carpenter, Jen Bervin, and Marjorie Perloff. The conference proceedings were recorded. This project examines the accessibility, use-to-date, and research potentials of the recordings of the conference proceedings, as well as the emotional and intellectual impact of literary sound more broadly. " ] },
+    "items": [
+    ]
+}
